@@ -1,7 +1,7 @@
 # Lukoki Makuntima Daniel
  
--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukokiMakuntimaDaniel)  
--![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukokiMakuntimaDaniel&hide_progress=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukokiMakuntimaDaniel)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukokiMakuntimaDaniel)
 
 
 ## Contacto
@@ -27,10 +27,6 @@
 - Proatividade
 - Resolução de Problemas
 
-## Formação Acadêmica
-
-- ![Ciências da Computação](https://img.shields.io/badge/Ci%C3%AAncias%20da%20Computa%C3%A7%C3%A3o-Em%20curso-blue) (UAN - Universidade Agostinho Neto)
-- ![Sistemas Informáticos](https://img.shields.io/badge/Sistemas%20Inform%C3%A1ticos-Conclu%C3%ADdo-green) (Instituto Médio Politécnico do Kikolo São José)
 
 
 
