@@ -1,6 +1,8 @@
 # Lukoki Makuntima Daniel
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukokiMakuntimaDaniel)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukokiMakuntimaDaniel&hide_progress=true)
+
 
 ## Contacto
 
@@ -9,6 +11,7 @@
 - Certificados da Alura: [Perfil Alura](https://cursos.alura.com.br/user/lukokimakuntimadaniel/fullCertificate/ee12c231c350068397ac8dfd32c7b183)
 - Portfólio: [lukokimakuntimadaniel.netlify.app](https://lukokimakuntimadaniel.netlify.app/)
 - Microsoft: [Perfil Microsoft](https://learn.microsoft.com/pt-pt/users/84862438/)
+- IBM: [Certificado](https://www.credly.com/badges/ab51e32d-7fb5-4a0f-99c4-45f21002fa22/linked_in_profile/)
 
 
 ## Hard Skills
@@ -30,13 +33,4 @@
 - ![Sistemas Informáticos](https://img.shields.io/badge/Sistemas%20Inform%C3%A1ticos-Conclu%C3%ADdo-green) (Instituto Médio Politécnico do Kikolo São José)
 
 
-## Certificações
 
-- [Web Development Fundamentals](https://www.credly.com/badges/ab51e32d-7fb5-4a0f-99c4-45f21002fa22/linked_in_profile) (IBM)
-- ![POO](https://img.shields.io/badge/POO-Expert-brightgreen) (Fundação Bradesco Escola Virtual)
-- [Java](https://cursos.alura.com.br/user/lukokimakuntimadaniel/fullCertificate/ee12c231c350068397ac8dfd32c7b183) (Alura)
-- ![Administração de Banco de Dados](https://img.shields.io/badge/Administra%C3%A7%C3%A3o%20de%20Banco%20de%20Dados-Expert-brightgreen) (Fundação Bradesco Escola Virtual)
-- ![Gestão Ágil](https://img.shields.io/badge/Gest%C3%A3o%20%C3%81gil-Expert-brightgreen) (Alura)
-- ![Git e GitHub](https://img.shields.io/badge/Git%20e%20GitHub-Expert-brightgreen) (Alura)
-- ![Gestão de Projetos](https://img.shields.io/badge/Gest%C3%A3o%20de%20Projetos-Expert-brightgreen) (Fundação Bradesco Escola Virtual)
-- [Microsoft](https://learn.microsoft.com/pt-pt/users/84862438/)
