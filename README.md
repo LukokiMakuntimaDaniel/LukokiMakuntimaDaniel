@@ -1,8 +1,10 @@
 # Lukoki Makuntima Daniel
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukokiMakuntimaDaniel)
 
 ## Contacto
 
-- Número: 932585113
+- Número Telefonico: +244 932585113
 - LinkedIn: [Lukoki Makuntima Daniel](https://www.linkedin.com/in/lukokidaniel/)
 - Certificados da Alura: [Perfil Alura](https://cursos.alura.com.br/user/lukokimakuntimadaniel/fullCertificate/ee12c231c350068397ac8dfd32c7b183)
 - Portfólio: [lukokimakuntimadaniel.netlify.app](https://lukokimakuntimadaniel.netlify.app/)
