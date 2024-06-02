@@ -2,11 +2,7 @@
 
 ## Contacto
 
-- ![Telefone](https://img.shields.io/badge/Telefone-%2B244932585113-blue)
-- ![E-mail](https://img.shields.io/badge/E-mail-lukokimakuntimadaniel%40gmail.com-blue)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Lukoki%20Daniel-blue)
-- [Portifólio](https://lukokimakuntimadaniel.netlify.app/)
-- [Certificado Alura](https://cursos.alura.com.br/user/lukokimakuntimadaniel/fullCertificate/ee12c231c350068397ac8dfd32c7b183)
+- ![Telefone](https://img.shields.io/badge/Telefone-%2B244932585113-blue)![LinkedIn](https://img.shields.io/badge/LinkedIn-Lukoki%20Daniel-blue)![Portifólio](https://lukokimakuntimadaniel.netlify.app/)![Certificados Alura](https://cursos.alura.com.br/user/lukokimakuntimadaniel/fullCertificate/ee12c231c350068397ac8dfd32c7b183)
 
 ## Hard Skills
 
