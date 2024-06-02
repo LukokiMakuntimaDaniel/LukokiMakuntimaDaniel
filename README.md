@@ -2,7 +2,12 @@
 
 ## Contacto
 
-- ![Telefone](https://img.shields.io/badge/Telefone-%2B244932585113-blue)![LinkedIn](https://img.shields.io/badge/LinkedIn-Lukoki%20Daniel-blue)![Portifólio](https://lukokimakuntimadaniel.netlify.app/)![Certificados Alura](https://cursos.alura.com.br/user/lukokimakuntimadaniel/fullCertificate/ee12c231c350068397ac8dfd32c7b183)
+- Número: 932585113
+- LinkedIn: [Lukoki Makuntima Daniel](https://www.linkedin.com/in/lukokidaniel/)
+- Certificados da Alura: [Perfil Alura](https://cursos.alura.com.br/user/lukokimakuntimadaniel/fullCertificate/ee12c231c350068397ac8dfd32c7b183)
+- Portfólio: [lukokimakuntimadaniel.netlify.app](https://lukokimakuntimadaniel.netlify.app/)
+- Microsoft: [Perfil Microsoft](https://learn.microsoft.com/pt-pt/users/84862438/)
+
 
 ## Hard Skills
 
