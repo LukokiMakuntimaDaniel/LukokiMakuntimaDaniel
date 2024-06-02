@@ -29,34 +29,6 @@
 - ![Ciências da Computação](https://img.shields.io/badge/Ci%C3%AAncias%20da%20Computa%C3%A7%C3%A3o-Em%20curso-blue) (UAN - Universidade Agostinho Neto)
 - ![Sistemas Informáticos](https://img.shields.io/badge/Sistemas%20Inform%C3%A1ticos-Conclu%C3%ADdo-green) (Instituto Médio Politécnico do Kikolo São José)
 
-## Experiência Profissional
-
-### Akira.ao - Desenvolvedor Backend
-- **Março/2024**
-- Principal linguagem de programação e framework: ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow), ![Node.js](https://img.shields.io/badge/Node.js-Expert-green)
-
-### Petabyte Tecnologia & Sistemas - Desenvolvedor Web
-- **Fevereiro/2024 até Abril/2024**
-- Principal linguagem de programação e framework: ![PHP](https://img.shields.io/badge/PHP-Expert-purple), ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-Expert-red)
-
-### Petabyte Tecnologia & Sistemas - Desenvolvedor Web
-- **Julho/2023 até dezembro/2023**
-- Principais linguagens de programação e frameworks: ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow), ![PHP](https://img.shields.io/badge/PHP-Expert-purple), ![Laravel](https://img.shields.io/badge/Laravel-Expert-orange), ![Livewire](https://img.shields.io/badge/Livewire-Expert-blue)
-
-### Cilliarp Prestação de Serviços - Desenvolvedor de Software
-- **Outubro/2021 até Junho/2023**
-- Principal linguagem de programação: ![Java](https://img.shields.io/badge/Java-Expert-brightgreen)
-
-### IENA, Nuremberg, Alemanha - Estágio
-- Participação na construção e elaboração de ideias e projetos inovadores da IENA, em Nuremberg, Alemanha
-
-### Angola Collegiate Programming Contest (AOCPC)
-- Participação no concurso de programação de resolução de algoritmos
-
-## Idiomas
-
-- ![Português](https://img.shields.io/badge/Portugu%C3%AAs-Fluente-brightgreen)
-- ![Inglês](https://img.shields.io/badge/Ingl%C3%AAs-Iniciante-yellow)
 
 ## Certificações
 
