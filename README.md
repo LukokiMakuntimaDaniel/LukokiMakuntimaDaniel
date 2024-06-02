@@ -1,7 +1,7 @@
 # Lukoki Makuntima Daniel
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukokiMakuntimaDaniel)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukokiMakuntimaDaniel)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukokiMakuntimaDaniel&hide_progress=true)
 
 
 ## Contacto
