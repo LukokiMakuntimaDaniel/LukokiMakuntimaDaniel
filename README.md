@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Lukoki Makuntima Daniel</h1>
-  <h2>Um apaixonado desenvolvedor de software, e foco em resoluções de problemas desafiador.</h2>
+  <h2>Um devoto desenvolvedor de software, mergulhado na paixão pela resolução de desafios.</h2>
 </div>
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukokiMakuntimaDaniel)
