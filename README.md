@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Lukoki Makuntima Daniel</h1>
-  <p>Um apaixonado desenvolvedor de software, e foco em resoluções de problemas desafiador.</p>
+  <h2>Um apaixonado desenvolvedor de software, e foco em resoluções de problemas desafiador.</h2>
+</div>
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukokiMakuntimaDaniel)
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukokiMakuntimaDaniel&hide_progress=true)
@@ -26,4 +27,4 @@
   - Adaptabilidade
   - Proatividade
   - Resolução de Problemas
-</div>
+
