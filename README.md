@@ -9,36 +9,18 @@
 - **E-mail:** lukokimakuntimadaniel@gmail.com
 - **LinkedIn:** [Lukoki Daniel](https://www.linkedin.com/in/lukokidaniel/)
 
-## Resumo Profissional
+## Hard Skills
 
-Sou um desenvolvedor de sistemas apaixonado por programação desde o ensino médio. Tenho experiência em equipes colaborativas e foco na comunicação eficiente. Busco soluções inovadoras para desafios, destacando-me pela prática constante em desenvolvimento de algoritmos e projetos. Comprometido em explorar novas tecnologias, estou entusiasmado para contribuir com dedicação ao sucesso da sua empresa.
+![Java](https://img.shields.io/badge/Java-Expert-orange) ![C++](https://img.shields.io/badge/C++-Expert-brightgreen) ![C#](https://img.shields.io/badge/C%23-Expert-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow) ![PHP](https://img.shields.io/badge/PHP-Expert-purple) ![MySQL](https://img.shields.io/badge/MySQL-Expert-blue) ![Oracle](https://img.shields.io/badge/Oracle-Expert-red) ![SQL Server](https://img.shields.io/badge/SQL%20Server-Expert-yellow) ![Node.js](https://img.shields.io/badge/Node.js-Expert-green) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-Expert-red) ![Laravel](https://img.shields.io/badge/Laravel-Expert-orange) ![Livewire](https://img.shields.io/badge/Livewire-Expert-blue) ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple) ![Xamarin](https://img.shields.io/badge/Xamarin-Expert-brightgreen) ![jQuery](https://img.shields.io/badge/jQuery-Expert-blue)
 
-## Linguagens que Domino
+## Soft Skills
 
-![Java](https://img.shields.io/badge/Java-Expert-orange)
-![C++](https://img.shields.io/badge/C++-Expert-brightgreen)
-![C#](https://img.shields.io/badge/C%23-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![PHP](https://img.shields.io/badge/PHP-Expert-purple)
-
-## Bancos de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-Expert-blue)
-![Oracle](https://img.shields.io/badge/Oracle-Expert-red)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Expert-yellow)
-
-## Frameworks e Tecnologias
-
-![Node.js](https://img.shields.io/badge/Node.js-Expert-green)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-Expert-red)
-![Laravel](https://img.shields.io/badge/Laravel-Expert-orange)
-![Livewire](https://img.shields.io/badge/Livewire-Expert-blue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple)
-
-## Plataformas
-
-![Xamarin](https://img.shields.io/badge/Xamarin-Expert-brightgreen)
-![jQuery](https://img.shields.io/badge/jQuery-Expert-blue)
+- Comunicação Eficiente
+- Trabalho em Equipe
+- Criatividade
+- Adaptabilidade
+- Proatividade
+- Resolução de Problemas
 
 ## Formação Acadêmica
 
@@ -83,4 +65,3 @@ Sou um desenvolvedor de sistemas apaixonado por programação desde o ensino mé
 - Gestão Ágil ![Gestão Ágil](https://img.shields.io/badge/Gest%C3%A3o%20%C3%81gil-Expert-brightgreen) (Alura)
 - Git e GitHub ![Git e GitHub](https://img.shields.io/badge/Git%20e%20GitHub-Expert-brightgreen) (Alura)
 - Gestão de Projetos ![Gestão de Projetos](https://img.shields.io/badge/Gest%C3%A3o%20de%20Projetos-Expert-brightgreen) (Fundação Bradesco Escola Virtual)
-
