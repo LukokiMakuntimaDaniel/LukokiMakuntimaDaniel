@@ -58,10 +58,7 @@
 
 ## Certificações
 
-- Web Development Fundamentals ![Web Development Fundamentals](https://img.shields.io/badge/Web%20Development%20Fundamentals-Expert-brightgreen) (IBM)
-- Programação Orientada a Objetos - POO ![POO](https://img.shields.io/badge/POO-Expert-brightgreen) (Fundação Bradesco Escola Virtual)
-- Java e Orientação a Objetos ![Java](https://img.shields.io/badge/Java-Expert-brightgreen) (Alura)
-- Administrando Banco de Dados ![Administração de Banco de Dados](https://img.shields.io/badge/Administra%C3%A7%C3%A3o%20de%20Banco%20de%20Dados-Expert-brightgreen) (Fundação Bradesco Escola Virtual)
-- Gestão Ágil ![Gestão Ágil](https://img.shields.io/badge/Gest%C3%A3o%20%C3%81gil-Expert-brightgreen) (Alura)
-- Git e GitHub ![Git e GitHub](https://img.shields.io/badge/Git%20e%20GitHub-Expert-brightgreen) (Alura)
-- Gestão de Projetos ![Gestão de Projetos](https://img.shields.io/badge/Gest%C3%A3o%20de%20Projetos-Expert-brightgreen) (Fundação Bradesco Escola Virtual)
+## Certificações
+
+![Web Development Fundamentals](https://img.shields.io/badge/Web%20Development%20Fundamentals-Expert-brightgreen) ![POO](https://img.shields.io/badge/POO-Expert-brightgreen) ![Java](https://img.shields.io/badge/Java-Expert-brightgreen) ![Administração de Banco de Dados](https://img.shields.io/badge/Administra%C3%A7%C3%A3o%20de%20Banco%20de%20Dados-Expert-brightgreen) ![Gestão Ágil](https://img.shields.io/badge/Gest%C3%A3o%20%C3%81gil-Expert-brightgreen) ![Git e GitHub](https://img.shields.io/badge/Git%20e%20GitHub-Expert-brightgreen) ![Gestão de Projetos](https://img.shields.io/badge/Gest%C3%A3o%20de%20Projetos-Expert-brightgreen)
+
