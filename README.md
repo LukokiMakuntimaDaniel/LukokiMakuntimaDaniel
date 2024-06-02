@@ -1,4 +1,11 @@
+
+<center>
 # Lukoki Makuntima Daniel
+</center>
+
+<center>
+Um apaixonado desenvolvedor de software, e foco em resoluções de problemas desafiador.
+</center>
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukokiMakuntimaDaniel)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukokiMakuntimaDaniel&hide_progress=true)
