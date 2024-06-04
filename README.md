@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Lukoki Makuntima Daniel</h1>
-  <h2>Um devoto desenvolvedor de Back-End, mergulhado na paixão pela resolução de desafios.</h2>
+  <h2>Desafios complexos são o campo de batalha onde a lógica é a espada.</h2>
 </div>
 
 ![GitHub Stats](https://github-profile-trophy.vercel.app/?username=LukokiMakuntimaDaniel)
