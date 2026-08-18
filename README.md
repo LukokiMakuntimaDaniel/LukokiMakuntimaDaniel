@@ -14,7 +14,7 @@
 - Número Telefonico: +244 932585113
 - LinkedIn: [Lukoki Makuntima Daniel](https://www.linkedin.com/in/lukokidaniel/)
 - Certificados da Alura: [Perfil Alura](https://cursos.alura.com.br/user/lukokimakuntimadaniel/fullCertificate/ee12c231c350068397ac8dfd32c7b183)
-- Portfólio: [lukokimakuntimadaniel.netlify.app](https://lukokimakuntimadaniel.netlify.app/)
+- Portfólio: [lukokimakuntimadaniel.netlify.app](https://lukokidaniel.netlify.app/)
 - Microsoft: [Perfil Microsoft](https://learn.microsoft.com/pt-pt/users/84862438/)
 - IBM: [Certificado](https://www.credly.com/users/lukoki-makuntima-daniel/edit/badges/credly)
 
