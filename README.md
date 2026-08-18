@@ -16,7 +16,7 @@
 - Certificados da Alura: [Perfil Alura](https://cursos.alura.com.br/user/lukokimakuntimadaniel/fullCertificate/ee12c231c350068397ac8dfd32c7b183)
 - Portfólio: [lukokimakuntimadaniel.netlify.app](https://lukokimakuntimadaniel.netlify.app/)
 - Microsoft: [Perfil Microsoft](https://learn.microsoft.com/pt-pt/users/84862438/)
-- IBM: [Certificado](https://www.credly.com/badges/ab51e32d-7fb5-4a0f-99c4-45f21002fa22/linked_in_profile/)
+- IBM: [Certificado](https://www.credly.com/users/lukoki-makuntima-daniel/edit/badges/credly)
 
 ## Hard Skills
 
